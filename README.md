@@ -1,5 +1,16 @@
-### Hi there, I'm Kaleth Cristancho.<br/>Game Developer and Software engineering student 📝
+### Hi there, I'm Kaleth Cristancho.<br/>A Unity Game Developer and Software engineering student 📝
 
+Relevant Projects and my contributions:
+- [FSX Play Golf Simulator](https://www.foresightsports.com/pages/fsx-play) - UI programmer.
+- [Manikins Relics and Tactics](https://www.youtube.com/watch?v=JmNzPA18J80) - General game programmer and UI programmer.
+- [Alternato](https://lezussia.itch.io/alternato) - Game programmer, game designer, technical artist and project manager.
+- [Historia de Adolescentes](https://innmersa.com/novela-visual-1/) - Game programmer, tech artist and voice actor.
+
+Other Projects:
+- [Monolith](https://ldjam.com/events/ludum-dare/45/monolith) - Game programmer, game designer, SFX and music composer.
+- [Catsper](https://kajoseh.itch.io/catsper) - Game programmer and game designer.
+- [Pamery](https://kajoseh.itch.io/pamery) - Game programmer, game designer and artist.
+- [Deeper Rooms](https://ldjam.com/events/ludum-dare/48/deeper-rooms) - Game programmer, game designer and tech artist.
 <!--
 **KaJoseh/KaJoseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
