@@ -4,6 +4,7 @@ Relevant Projects and my contributions:
 - [FSX Play Golf Simulator](https://www.foresightsports.com/pages/fsx-play) - UI programmer.
 - [Manikins Relics and Tactics](https://www.youtube.com/watch?v=JmNzPA18J80) - General game programmer and UI programmer.
 - [Alternato](https://lezussia.itch.io/alternato) - Game programmer, game designer, technical artist and project manager.
+- [Calix Dupree Show](https://crimpatches.itch.io/calix-dupree-show) - Game programmer and technical artist.
 - [Historia de Adolescentes](https://innmersa.com/novela-visual-1/) - Game programmer, tech artist and voice actor.
 
 Other Projects:
