@@ -13,7 +13,7 @@
 
 <p>I'm based in Colombia and currently open to new roles worldwide remotely! I'm working on side projects while expanding towards .Net core development and crafting adventures on DnD.</p>
 
-<img align="right" src="https://media.giphy.com/media/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="250" height="250" hspace="60"/>
+<img align="right" src="https://media.giphy.com/media/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="250" height="250"/>
 
 <h2>
   :shipit: About me
